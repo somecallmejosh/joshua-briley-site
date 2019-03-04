@@ -1,5 +1,17 @@
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: 'Lora', serif;
+}
+
+h1,h2,h3,h4,h5,h6, strong, th {
+    color: rgba(0,0,0,.8);
+}
+
+p,li, small {
+    color: rgba(0,0,0,.6);
+}
+
+p,li {
+    line-height: 1.5;
 }
 
 main {
@@ -20,6 +32,15 @@ nav ul {
 nav li {
     list-style: none;
     margin-left: 5px;
+}
+
+.article-meta {
+    margin-bottom: 3rem;
+}
+
+.article-title {
+    font-size: 2rem;
+    margin-bottom: .5rem;
 }
 
 .highlight { background-color: #f4f4f4; border: #dce2e8 1px solid; margin-bottom: 1.6rem; padding: 20px; overflow-x: scroll;}
@@ -71,21 +92,5 @@ table .highlight {margin-bottom: 0; max-width: 100%;}
 .highlight .il { color: #0000FF } /* Literal.Number.Integer.Long */
 
 code {
-	color: #c9242b !important;
 	background-color: #f2f4f8 !important;
-	padding: 2px 4px !important;
-	font-size: 90% !important;
-}
-
-.code-toggle .code-visible,
-.code-toggle.is-triggered .code-hidden {
-  display: none;
-}
-
-.code-toggle .code-hidden {
-  display: flex;
-}
-
-.code-toggle.is-triggered .code-visible {
-  display: flex;
 }
