@@ -80,11 +80,7 @@ Gonna put that in the "*easy to configure page data models*" section.
 
 {{< youtube w7Ft2ymGmfc >}}
 
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-
-**Or, how about a Gist?**
-
-{{< gist spf13 7896402 "img.html" >}}
+Yep. Looks like the Youtube shortcode works just fine. Have to suspect custom shortcodes would work exactly the same. This might simplify some things for the marketing folks who are currently writing `html` to display certain *widgets* or *components* within an article or post.
 
 ## How About Regular Old Content?
 
