@@ -8,8 +8,7 @@ image: /img/about-direct-sourcing.jpg
 ---
 ## Can I Write Code Here?
 
-{{< highlight js >}}
-const thing = (a, b) => a + b;
+{{< highlight js >}}const thing = (a, b) => a + b;
 console.log(thing(2,5));
 {{< /highlight >}}
 
