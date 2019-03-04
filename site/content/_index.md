@@ -1,7 +1,7 @@
 ---
 title: Joshua Briley
 subtitle: A blog about code and music
-image: /img/about-direct-sourcing.jpg
+image: ''
 blurb:
   heading: test
   text: test
