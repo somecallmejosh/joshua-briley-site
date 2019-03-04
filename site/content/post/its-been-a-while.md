@@ -8,10 +8,7 @@ image: ''
 ---
 ## Can I Write Code Here?
 
-{{< highlight js >}}const thing = (a, b) => a + b;
-console.log(thing(2,5));
+{{< highlight js >}}\
+const thing = (a, b) => a + b;
+console.log(thing(2,5));\
 {{< /highlight >}}
-
-## Can I Talk Music Here?
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/769dD5caLmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
