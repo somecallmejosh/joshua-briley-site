@@ -24,9 +24,11 @@ image: ''
 })()
 {{< /highlight >}}
 
-### Customizing Page Data is pretty easy
+I'll take that as a solid **yes**!
 
-It's little `yml` in the admin section goes a long way.
+### How easy is it to customize page data?
+
+A little `yml` in the admin section goes a long way.
 
 {{< highlight js >}}
 backend:
@@ -70,6 +72,8 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Text", name: "text", widget: "text"}]}
 {{< /highlight >}}
 
+Gonna put that in the "*easy to configure page data models*" section.
+
 ## What About Other Hugo Shortcodes?
 
 **Maybe a Youtube video shortcode embed?**
@@ -99,3 +103,9 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 > Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+
+## What I don't know yet...
+- How easy would it be to build something flexible, like Microsites?
+  - Or, is it even possible?
+- What about embedding form elements and such?
+- What about adding widgets/components on the fly?
