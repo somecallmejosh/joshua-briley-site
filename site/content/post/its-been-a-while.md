@@ -26,6 +26,8 @@ image: ''
 
 ### Customizing Page Data is pretty easy
 
+It's little `yml` in the admin section goes a long way.
+
 {{< highlight js >}}
 backend:
   name: git-gateway
