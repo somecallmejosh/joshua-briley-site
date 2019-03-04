@@ -8,10 +8,10 @@ image: /img/about-direct-sourcing.jpg
 ---
 ## Can I Write Code Here?
 
-{{% highlight js %}}
+{{< highlight js >}}
 const thing = (a, b) => a + b;
 console.log(thing(2,5));
-{{% /highlight %}}
+{{< /highlight >}}
 
 ## Can I Talk Music Here?
 
