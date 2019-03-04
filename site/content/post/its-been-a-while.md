@@ -6,9 +6,7 @@ description: >-
   do. So far, it seems pretty sweet. Let me test out a couple things below.
 image: ''
 ---
-```
-Can I Write Code Here?
-```
+## Can I Write Code Here?
 
 {{< highlight js >}}
 ;(function () {
@@ -24,6 +22,50 @@ Can I Write Code Here?
 	
 	window.addEventListener('scroll', fixStickyHeader);
 })()
+{{< /highlight >}}
+
+### Customizing Page Data is pretty easy
+
+{{< highlight js >}}
+backend:
+  name: git-gateway
+
+media_folder: "site/static/img" # Folder where user uploaded files should go
+public_folder: "img"
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Post" # Used in the UI, ie.: "New Post"
+    folder: "site/content/post" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "site/content/_index.md"
+        label: "Home Page"
+        name: "home"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Image, name: image, widget: image, required: false}
+          - {label: "Blurb", name: blurb, widget: object, fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: "Text", name: "text", widget: "text"}]}
+          - {label: "Intro", name: intro, widget: object, fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: "Text", name: "text", widget: "text"}]}
+          - {label: "Products", name: products, widget: list, fields: [
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Text", name: "text", widget: "text"}]}
+          - {label: "Values", name: "values", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: "Text", name: "text", widget: "text"}]}
 {{< /highlight >}}
 
 ## What About Other Hugo Shortcodes?
