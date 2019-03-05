@@ -1,6 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
 body {
     font-family: 'Lora', serif;
+    background-color: rgba(0,0,0,.025);
 }
+
 
 h1,h2,h3,h4,h5,h6, strong, th {
     color: rgba(0,0,0,.8);
@@ -14,14 +24,21 @@ p,li {
     line-height: 1.5;
 }
 
+header {
+    background-color: #fff;
+    box-shadow: 0 0 20px rgba(0,0,0,.2);
+}
+
 main {
     margin: 0 auto;
+    padding: 1rem;
     max-width: 768px;
 }
 
 nav {
     display: flex;
     justify-content: space-between;
+    padding: 1rem;
 }
 
 nav ul {
@@ -31,7 +48,17 @@ nav ul {
 }
 nav li {
     list-style: none;
-    margin-left: 5px;
+    margin-left: 2rem;
+}
+
+nav a {
+    color: rgba(0,0,0,.8);
+    text-decoration: none;
+}
+
+.logo {
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 .article-meta {
@@ -43,7 +70,29 @@ nav li {
     margin-bottom: .5rem;
 }
 
-.highlight { background-color: #f4f4f4; border: #dce2e8 1px solid; margin-bottom: 1.6rem; padding: 20px; overflow-x: scroll;}
+.card {
+    margin-bottom: 1rem;
+}
+
+.card a:hover {
+    box-shadow: 0 0 30px rgba(0,0,0,.2);
+}
+
+.card a {
+    background-color: #fff;
+    border-radius: 1rem;
+    display: block;
+    text-decoration: none;
+    padding: 2rem;
+    transition: box-shadow .2s;
+}
+
+.card-wrapper {
+    margin-bottom: 1rem;
+}
+
+
+.highlight { background-color: #fff; margin-bottom: 1.5rem; padding: 2rem; border-radius: 1rem; overflow-x: scroll;}
 table .highlight {margin-bottom: 0; max-width: 100%;}
 .highlight .c { color: #008800; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
@@ -52,11 +101,11 @@ table .highlight {margin-bottom: 0; max-width: 100%;}
 .highlight .cp { color: #008080 } /* Comment.Preproc */
 .highlight .c1 { color: #008800; font-style: italic } /* Comment.Single */
 .highlight .cs { color: #008800; font-weight: bold } /* Comment.Special */
-.highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+.highlight .gd { color: rgba(0,0,0,.6); background-color: #ffdddd } /* Generic.Deleted */
 .highlight .ge { font-style: italic } /* Generic.Emph */
 .highlight .gr { color: #aa0000 } /* Generic.Error */
 .highlight .gh { color: #999999 } /* Generic.Heading */
-.highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+.highlight .gi { color: rgba(0,0,0,.6); background-color: #ddffdd } /* Generic.Inserted */
 .highlight .go { color: #888888 } /* Generic.Output */
 .highlight .gp { color: #555555 } /* Generic.Prompt */
 .highlight .gs { font-weight: bold } /* Generic.Strong */
@@ -92,5 +141,5 @@ table .highlight {margin-bottom: 0; max-width: 100%;}
 .highlight .il { color: #0000FF } /* Literal.Number.Integer.Long */
 
 code {
-	background-color: #f2f4f8 !important;
+	background-color: #fff !important;
 }

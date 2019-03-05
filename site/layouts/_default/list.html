@@ -1,15 +1,13 @@
 {{ define "main" }}
 
-<h1>Latest Stories</h1>
+<h1>Latest Articles</h1>
 
 <div>
-  <ul>
-      {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
-          <div>
-            {{ .Render "li"}}
-          </div>
-      {{ end }}
-  </ul>
+  {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
+    <div class="card">
+      {{ .Render "li"}}
+    </div>
+  {{ end }}
   {{ partial "pagination" . }}
 </div>
 

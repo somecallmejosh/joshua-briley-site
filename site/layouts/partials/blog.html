@@ -1,17 +1,12 @@
+<h2>Latest Articles</h1>
+<div class="card-wrapper">
+	{{ range first 4 (where .Data.Pages "Type" "post") }}
+		<div class="card">
+			{{ .Render "li" }}
+		</div>
+	{{ end }}
+</div>
+
 <div>
-	<div>
-		<h2>Latest stories</h1>
-		<div>
-			{{ range first 4 (where .Data.Pages "Type" "post") }}
-				<div>
-					{{ .Render "li" }}
-				</div>
-			{{ end }}
-		</div>
-
-		<div>
-			<a href="/post">Read more</a>
-		</div>
-
-	</div>
+	<a href="/post">Read more</a>
 </div>
