@@ -103,7 +103,8 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 ## What I don't know yet...
 
 * How easy would it be to build something flexible, like Microsites?
-  * Or, is it even possible?
+  * Can I reposition content on a page from within the admin?
+  * Can I add/embed components to a page?
 * What about embedding form elements and such?
 * What about adding widgets/components on the fly?
 * Associating content or content types, is that a thing?
