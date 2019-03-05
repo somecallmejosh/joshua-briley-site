@@ -38,41 +38,42 @@ media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "site/content/post" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-  - name: "pages"
-    label: "Pages"
-    files:
-      - file: "site/content/_index.md"
-        label: "Home Page"
-        name: "home"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
-          - {label: Image, name: image, widget: image, required: false}
-          - {label: "Blurb", name: blurb, widget: object, fields: [
-              {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Intro", name: intro, widget: object, fields: [
-              {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Products", name: products, widget: list, fields: [
-              {label: "Image", name: "image", widget: "image"},
-              {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Values", name: "values", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
-{{< /highlight >}}
 
-Gonna put that in the "*easy to configure page data models*" section.
+* name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+  label: "Post" # Used in the UI, ie.: "New Post"
+  folder: "site/content/post" # The path to the folder where the documents are stored
+  create: true # Allow users to create new documents in this collection
+  fields: # The fields each document in this collection have
+  * {label: "Title", name: "title", widget: "string"}
+  * {label: "Publish Date", name: "date", widget: "datetime"}
+  * {label: "Intro Blurb", name: "description", widget: "text"}
+  * {label: "Image", name: "image", widget: "image", required: false}
+  * {label: "Body", name: "body", widget: "markdown"}
+* name: "pages"
+      label: "Pages"
+      files:
+        - file: "site/content/_index.md"
+          label: "Home Page"
+          name: "home"
+          fields:
+            - {label: Title, name: title, widget: string}
+            - {label: Subtitle, name: subtitle, widget: string}
+            - {label: Image, name: image, widget: image, required: false}
+            - {label: "Blurb", name: blurb, widget: object, fields: \[
+                {label: "Heading", name: "heading", widget: string},
+                {label: "Text", name: "text", widget: "text"}]}
+            - {label: "Intro", name: intro, widget: object, fields: \[
+                {label: "Heading", name: "heading", widget: string},
+                {label: "Text", name: "text", widget: "text"}]}
+            - {label: "Products", name: products, widget: list, fields: \[
+                {label: "Image", name: "image", widget: "image"},
+                {label: "Text", name: "text", widget: "text"}]}
+            - {label: "Values", name: "values", widget: "object", fields: \[
+                {label: "Heading", name: "heading", widget: string},
+                {label: "Text", name: "text", widget: "text"}]}
+  {{< /highlight >}}
+
+Gonna put that in the "_easy to configure page data models_" section.
 
 ## What About Other Hugo Shortcodes?
 
@@ -80,7 +81,7 @@ Gonna put that in the "*easy to configure page data models*" section.
 
 {{< youtube w7Ft2ymGmfc >}}
 
-Yep. Looks like the Youtube shortcode works just fine. Have to suspect custom shortcodes would work exactly the same. This might simplify some things for the marketing folks who are currently writing `html` to display certain *widgets* or *components* within an article or post.
+Yep. Looks like the Youtube shortcode works just fine. Have to suspect custom shortcodes would work exactly the same. This might simplify some things for the marketing folks who are currently writing `html` to display certain _widgets_ or _components_ within an article or post.
 
 ## How About Regular Old Content?
 
@@ -101,7 +102,13 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
 ## What I don't know yet...
-- How easy would it be to build something flexible, like Microsites?
-  - Or, is it even possible?
-- What about embedding form elements and such?
-- What about adding widgets/components on the fly?
+
+* How easy would it be to build something flexible, like Microsites?
+  * Or, is it even possible?
+* What about embedding form elements and such?
+* What about adding widgets/components on the fly?
+* Associating content or content types, is that a thing?
+
+## Interesting Stuff
+
+* Renaming a route can only be done in code, not from within the admin section? Seems strange.
