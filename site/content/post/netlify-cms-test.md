@@ -108,6 +108,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 * What about embedding form elements and such?
 * What about adding widgets/components on the fly?
 * Associating content or content types, is that a thing?
+* What about drafts? Or, author types?
 
 ## Interesting Stuff
 
