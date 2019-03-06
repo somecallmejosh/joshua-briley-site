@@ -2,16 +2,17 @@
   <article>
     <div class="article-header">
       <div class="article-header-content">
-          <small>CATEGORIE</small>
+          <small class="category">Category</small>
           <h1 class="article-title">{{.Title}}</h1>
           <div class="article-meta">
               <small>{{ .Date.Format "Mon, Jan 2, 2006" }}</small> | 
               <small>Read in {{ .ReadingTime }} minutes</small>
-              <p>{{ .Description }}</p>
           </div>
+          <p>{{ .Description }}</p>
       </div>
-      <div aria-hidden="true" class="article-header-image" style='background: #ccc url("{{ .Params.image }}");align-self: stretch;
-      background-size: cover;'>
+      <div aria-hidden="true" class="article-header-image" >
+        <div class="article-header-image-container" style='background: #ccc url("{{ .Params.image }}");align-self: stretch;
+        background-size: cover;'></div>
         <div class="image-attribution">Image attribution here</div>
       </div>
     </div>
