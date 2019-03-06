@@ -17,7 +17,7 @@
     position: absolute;
     bottom: -1.5rem;
     left: 0;
-    color: rgba(0,0,0,.6);
+    color: var(--black-60);
     font-size: .7rem;
 }
 
@@ -30,7 +30,7 @@
 }
 
 .article-header-content .category {
-    color: rgba(0,0,0,.7);
+    color: var(--black-70);
     display: block;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -44,7 +44,7 @@
 }
 
 .article-meta {
-    color: rgba(0,0,0,.4);
+    color: var(--black-40);
 }
 
 .article-title {

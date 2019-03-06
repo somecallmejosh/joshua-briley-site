@@ -1,4 +1,4 @@
-.highlight { background-color: rgba(0,0,0,.025); margin-bottom: 1.5rem; padding: 2rem; overflow-x: scroll;}
+.highlight { background-color: var(--black-015); margin-bottom: 1.5rem; padding: 2rem; overflow-x: scroll;}
 table .highlight {margin-bottom: 0; max-width: 100%;}
 .highlight .c { color: #008800; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */

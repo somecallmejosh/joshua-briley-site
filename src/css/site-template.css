@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    font-size: 110%;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: 'Lora', serif;
+
+}
+
+h1,h2,h3,h4,h5,h6, strong, th {
+    color: var(--black-80);
+}
+
+p,li, small {
+    color: var(--black-60);
+}
+
+p,li {
+    line-height: 1.5;
+}
+
+header {
+    background-color: var(--white);
+    box-shadow: 0 0 20px var(--black-20);
+}
+
+
+.logo {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+main {
+    margin-bottom: 2rem;
+}
+
+footer {
+    padding: 2rem;
+    background-color: var(--black-015);
+}
