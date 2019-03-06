@@ -1,6 +1,9 @@
 * {
     box-sizing: border-box;
 }
+html {
+    font-size: 110%;
+}
 
 html, body {
     padding: 0;
