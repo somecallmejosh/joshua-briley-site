@@ -1,10 +1,12 @@
 ---
 title: Joshua Briley
 subtitle: A blog about code and music
-image: ''
+image: /img/computer.jpeg
 blurb:
-  heading: test
-  text: test
+  heading: >-
+    I do family stuff and other things. I write code and other things. I play
+    drums and other things.
+  text: I do lots of things.
 intro:
   heading: test
   text: test
