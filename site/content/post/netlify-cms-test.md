@@ -4,7 +4,7 @@ date: 2019-03-04T00:14:04.005Z
 description: >-
   So, I'm just playing around with the Netlify CMS to see what it can and cannot
   do. So far, it seems pretty sweet. Let me test out a couple things below.
-image: /img/computertesting.jpeg
+image: /img/computer-user.jpeg
 ---
 ## Can I Write Code Here?
 
