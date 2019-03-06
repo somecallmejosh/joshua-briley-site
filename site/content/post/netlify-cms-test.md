@@ -1,5 +1,5 @@
 ---
-title: 'Netlify CMS '
+title: Checking Out Netlify CMS
 date: 2019-03-04T00:14:04.005Z
 description: >-
   So, I'm just playing around with the Netlify CMS to see what it can and cannot
