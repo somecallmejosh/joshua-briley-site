@@ -1,11 +1,13 @@
 ---
-title: Checking Out The Wonder That is Netlify CMS
+title: Checking Out Netlify CMS
 date: 2019-03-04T00:14:04.005Z
 description: >-
   So, I'm just playing around with the Netlify CMS to see what it can and cannot
-  do. So far, it seems pretty sweet. Let me test out a couple things below.
+  do. So far, it seems pretty sweet.
 image: /img/computer-user.jpeg
 ---
+First of all, I'm using Netlify CMS with the [Hugo static site generator](https://www.gohugo.io). I've chosen this over Nuxt.js and some of the other more fancy, _cutting edge_ SSG's because I'm familiar with it. It's easy. It's fast. Nuff said.
+
 ## Can I Write Code Here?
 
 {{< highlight js >}}
@@ -98,7 +100,6 @@ Sed quia **consequuntur magni dolores eos** qui ratione voluptatem sequi nesciun
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 > **I'm a block quote.** Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-
 
 ## What I don't know yet...
 
