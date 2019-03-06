@@ -1,0 +1,40 @@
+.article-header {
+    display: flex;
+    align-items: center;
+    min-height: 500px;
+    max-width: 1100px;
+    margin: 0 auto 3rem;
+}
+
+.article-header > div {
+    flex: 1 0 50%;
+}
+.article-header-image {
+    position: relative;
+}
+.image-attribution {
+    position: absolute;
+    bottom: -1.5rem;
+    left: 0;
+    color: rgba(0,0,0,.3);
+    font-size: .7rem;
+}
+
+.article-header-content {
+    padding: 2rem;
+}
+
+.article-content {
+    max-width: 768px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.article-meta {
+    margin-bottom: 3rem;
+}
+
+.article-title {
+    font-size: 2rem;
+    margin-bottom: .5rem;
+}

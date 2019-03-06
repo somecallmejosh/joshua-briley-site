@@ -1,6 +1,9 @@
 {{ define "main" }}
 
-
+<img src="{{.Params.image}}" class="img-responsive" alt="">
+<h1>{{.Params.title}}</h1>
+{{ .Params.blurb.heading }}
+<hr>
 {{ partial "blog" . }}
 
 {{ end }}

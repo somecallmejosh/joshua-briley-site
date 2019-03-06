@@ -1,0 +1,20 @@
+.card {
+    margin-bottom: 1rem;
+}
+
+.card a:hover {
+    box-shadow: 0 0 30px rgba(0,0,0,.2);
+}
+
+.card a {
+    background-color: #fff;
+    border-radius: 1rem;
+    display: block;
+    text-decoration: none;
+    padding: 2rem;
+    transition: box-shadow .2s;
+}
+
+.card-wrapper {
+    margin-bottom: 1rem;
+}

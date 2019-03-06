@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: 'Lora', serif;
+
+}
+
+h1,h2,h3,h4,h5,h6, strong, th {
+    color: rgba(0,0,0,.8);
+}
+
+p,li, small {
+    color: rgba(0,0,0,.6);
+}
+
+p,li {
+    line-height: 1.5;
+}
+
+header {
+    background-color: #fff;
+    box-shadow: 0 0 20px rgba(0,0,0,.2);
+}
+
+
+.logo {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
