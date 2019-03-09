@@ -4,8 +4,8 @@ slug: a-life-of-gratitude
 date: 2019-03-09T12:15:27.640Z
 category: Gratitude
 description: >-
-  Gratitude doesn't change my environment, it allows me to be feel good about
-  it.
+  Gratitude isn't some magical force that changes my environment. It's a magical
+  force that allows me to be feel good about it.
 imageLink: aDYBhg-4htc
 imageAttribute: 'https://unsplash.com/@alesme'
 ---
