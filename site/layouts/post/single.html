@@ -20,7 +20,7 @@
         background-size: cover;'></div>
         {{ end }}
         {{ if .Params.imageAttribute }}
-        <div class="image-attribution">{{ .Params.imageAttribute }}</div>
+        <a href="{{ .Params.imageAttribute }}" class="image-attribution" target="_blank">{{ .Params.imageAttribute }}</a>
         {{end}}
       </div>
     </div>
