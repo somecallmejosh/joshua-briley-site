@@ -1,5 +1,5 @@
 ---
-title: I code. I drum. I travel. I appreciate stuff.
+title: I code. I drum. I travel. I live.
 subtitle: >-
   This blog is mostly a journal for me to refer back to things I want to find
   later. Feel free to hang out see what I'm up to, if that's your thing.
