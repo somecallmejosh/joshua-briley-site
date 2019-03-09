@@ -3,7 +3,9 @@ title: I code. I drum. I travel. I appreciate stuff.
 subtitle: >-
   This blog is mostly a journal for me to refer back to things I want to find
   later. Feel free to hang out see what I'm up to, if that's your thing.
-image: /img/computer.jpeg
+image: ''
+imageLink: 6MXDP9u6fmU
+imageAttribute: 'https://unsplash.com/@mohamedmazouz'
 blurb:
   heading: I don't really use this section.
   text: I don't really use this section either.
