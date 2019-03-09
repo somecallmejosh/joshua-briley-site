@@ -3,8 +3,9 @@
 		<img src="{{.Params.image }}" class="img-responsive" alt="">
 	</div>
 	<div class="card-content">
+		<small class="category">{{.Params.category}}</small>
 		<h2>{{ .Title }}</h2>
-		<small>{{ .Date.Format "Mon, Jan 2, 2006" }}</small>
+
 		<p>{{ .Description }}</p>
 	</div>
 </a>

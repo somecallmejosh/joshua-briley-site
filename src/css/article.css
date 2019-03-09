@@ -29,7 +29,7 @@
     margin-top: 0;
 }
 
-.article-header-content .category {
+.category {
     color: var(--black-70);
     display: block;
     letter-spacing: 1px;

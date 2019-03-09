@@ -7,7 +7,12 @@
     background-color: var(--white);
     display: flex;
     text-decoration: none;
-    transition: box-shadow .2s;
+}
+
+.card a:hover p,
+.card a:hover small,
+.card a:hover h2  {
+    color: var(--black-40);
 }
 
 .card-image {

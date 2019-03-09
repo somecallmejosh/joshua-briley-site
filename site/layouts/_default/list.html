@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <div class="content-body">
-    <h1>Latest Blog Posts</h1>
+    <h1>All Posts</h1>
     <div>
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
         <div class="card">
