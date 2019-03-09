@@ -48,6 +48,17 @@ footer {
     padding: 2rem 1rem 4rem;
 }
 
+.home-content {
+    background-color:var(--black-80);
+}
+
+.home-content a,
+.home-content a:hover,
+.home-content p,
+.home-content h1 {
+    color: var(--white);
+}
+
 main a {
     color: var(--black-90);
 }

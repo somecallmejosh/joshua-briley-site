@@ -4,6 +4,16 @@
     overflow: auto;
 }
 
+.hero a {
+    text-decoration: none;
+}
+
+.hero a:hover p,
+.hero a:hover small,
+.hero a:hover h2  {
+    color: var(--black-50);
+}
+
 .hero-text {
     padding: 1rem;
 }
