@@ -1,11 +1,11 @@
 <h2>Recent Posts</h1>
 <div class="card-wrapper">
 	{{ range $index, $element := first 3 (where .Data.Pages "Type" "post") }}
-		<div class="card">
-			{{ if ne $index 0}}
-			{{ .Render "li" }}
-			{{ end }}
-		</div>
+		{{ if ne $index 0}}	
+			<div class="card">
+				{{ .Render "li" }}
+			</div>
+		{{ end }}
 	{{ end }}
 </div>
 <div>

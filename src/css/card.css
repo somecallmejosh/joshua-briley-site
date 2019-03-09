@@ -10,7 +10,8 @@
 
 .card a:hover p,
 .card a:hover small,
-.card a:hover h2  {
+.card a:hover h2,
+.card a:hover h3  {
     color: var(--black-40);
 }
 
@@ -24,7 +25,8 @@
     flex: 2;
     flex-direction: column;
 }
-.card h2 {
+.card h2,
+.card h3 {
     margin: 0 0 .5rem;
 }
 

@@ -9,7 +9,7 @@
                     {{ end }}
                     <div class="hero-text">
                         <small class="category">Featured Post</small>
-                        <h2>{{ .Title }}</h2>
+                        <h1>{{ .Title }}</h1>
                         <p>{{ .Description }} <small>[&hellip;]</small></p>
                     </div>
                 </a>
@@ -22,7 +22,7 @@
 </div>
 <div class="home-content">
     <div class="content-body">
-        <h1>{{.Params.title}}</h1>
+        <h2>{{.Params.title}}</h2>
         {{ if .Params.imageLink }}
             <img src="https://source.unsplash.com/{{.Params.imageLink}}/800x400" class="img-responsive" alt="" />
         {{ end }}
