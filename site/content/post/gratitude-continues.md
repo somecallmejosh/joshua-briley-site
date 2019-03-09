@@ -1,5 +1,5 @@
 ---
-title: Gratitude Continues
+title: Moving away from Medium.com
 slug: gratitude-continues
 date: 2019-03-09T03:40:06.156Z
 category: Gratitude
