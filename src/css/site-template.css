@@ -67,3 +67,7 @@ main a:hover {
     color: var(--black-70);
     text-decoration: none;
 }
+
+.comments {
+    background-color: var(--black-020);
+}
