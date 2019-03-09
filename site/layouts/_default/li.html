@@ -1,11 +1,15 @@
 <a href="{{ .Permalink }}">
 	<div class="card-image">
-		<img src="{{.Params.image }}" class="img-responsive" alt="">
+		{{ if .Params.image }}
+			<img src="{{.Params.image}}" alt="" class="img-responsive">
+		{{ end }}
+		{{ if .Params.imageLink }}
+			<img src="https://source.unsplash.com/{{.Params.imageLink}}/800x800" class="img-responsive" />
+		{{ end }}
 	</div>
 	<div class="card-content">
 		<small class="category">{{.Params.category}}</small>
 		<h2>{{ .Title }}</h2>
-
 		<p>{{ .Description }}</p>
 	</div>
 </a>

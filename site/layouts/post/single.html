@@ -13,7 +13,9 @@
       <div aria-hidden="true" class="article-header-image" >
         <div class="article-header-image-container" style='background: #ccc url("{{ .Params.image }}");align-self: stretch;
         background-size: cover;'></div>
-        <div class="image-attribution">Image attribution here</div>
+        {{ if .Params.imageAttribute }}
+        <div class="image-attribution">{{ .Params.imageAttribute }}</div>
+        {{end}}
       </div>
     </div>
     <div class="article-content content-body">
