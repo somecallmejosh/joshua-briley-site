@@ -9,9 +9,11 @@ description: >-
 imageLink: 1iVKwElWrPA
 imageAttribute: 'https://unsplash.com/@heapdump'
 ---
-First of all, I'm using Netlify CMS with the [Hugo static site generator](https://www.gohugo.io). I've chosen this over Nuxt.js and some of the other more fancy, _cutting edge_ SSG's because I'm familiar with it. It's easy. It's fast. Nuff said.
+First of all, I'm using Netlify CMS with the [Hugo static site generator](https://www.gohugo.io). I've chosen this over Nuxt.js and some of the other more fancy, _cutting edge_ SSG's because I'm familiar with it. It's easy. It's fast. Nuff said. The content that follows is mostly for me, but you're welcome to continue reading if you're into web stuff.
 
 ## Can I Write Code Here?
+
+Can I use Hugo shortcodes in the Netlify CMS?
 
 {{< highlight js >}}
 ;(function () {
@@ -113,7 +115,3 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 * What about adding widgets/components on the fly?
 * Associating content or content types, is that a thing?
 * What about drafts? Or, author types?
-
-## Interesting Stuff
-
-* Renaming a route can only be done in code, not from within the admin section? Seems strange.
