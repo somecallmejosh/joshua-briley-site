@@ -11,8 +11,14 @@
           <p>{{ .Description }}</p>
       </div>
       <div aria-hidden="true" class="article-header-image" >
+        {{ if .Params.image }}
         <div class="article-header-image-container" style='background: #ccc url("{{ .Params.image }}");align-self: stretch;
         background-size: cover;'></div>
+        {{ end }}
+        {{ if .Params.imageLink }}
+        <div class="article-header-image-container" style='background: #ccc url("https://source.unsplash.com/{{.Params.imageLink}}/800x800");align-self: stretch;
+        background-size: cover;'></div>
+        {{ end }}
         {{ if .Params.imageAttribute }}
         <div class="image-attribution">{{ .Params.imageAttribute }}</div>
         {{end}}
