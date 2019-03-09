@@ -3,3 +3,26 @@
     width: 100%;
     height: auto;
 }
+
+a.skip-main {
+    left:-999px;
+    position:absolute;
+    top:auto;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+    z-index:-999;
+}
+a.skip-main:focus, a.skip-main:active {
+    color: #fff;
+    background-color: var(--black-90);
+    left: 50%;
+    top: 0;
+    overflow:auto;
+    padding: 1rem;
+    text-align:center;
+    transform: translateX(-50%);
+    width: auto;
+    height: auto;
+    z-index:999;
+}

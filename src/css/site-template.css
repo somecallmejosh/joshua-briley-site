@@ -38,7 +38,8 @@ header {
 
 footer {
     padding: 2rem;
-    background-color: var(--black-50);
+    background-color: var(--black-10);
+    text-align: center;
 }
 
 .content-body {
