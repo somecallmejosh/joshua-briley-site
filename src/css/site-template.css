@@ -11,7 +11,6 @@ html, body {
 }
 body {
     font-family: 'Lora', serif;
-
 }
 
 h1,h2,h3,h4,h5,h6, strong, th {
@@ -37,11 +36,22 @@ header {
     letter-spacing: 1px;
 }
 
-main {
-    margin-bottom: 2rem;
-}
-
 footer {
     padding: 2rem;
-    background-color: var(--black-015);
+    background-color: var(--black-50);
+}
+
+.content-body {
+    max-width: 768px;
+    margin: 0 auto;
+    padding: 2rem 1rem 4rem;
+}
+
+main a {
+    color: var(--black-90);
+}
+
+main a:hover {
+    color: var(--black-70);
+    text-decoration: none;
 }

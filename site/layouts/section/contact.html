@@ -1,11 +1,13 @@
 {{ define "main" }}
-<h1 class="f-headline measure">Joshua Briley</h1>
-{{ .Content }}
-{{ range .Params.contact_entries }}
-	<div>
-		<h4>{{ .heading }}</h4>
-		<p>{{ .text }}</p>
-	</div>
-{{ end }}
+<div class="content-body">
+	<h1 class="f-headline measure">Joshua Briley</h1>
+	{{ .Content }}
+	{{ range .Params.contact_entries }}
+		<div>
+			<h4>{{ .heading }}</h4>
+			<p>{{ .text }}</p>
+		</div>
+	{{ end }}
+</div>
 
 {{ end }}

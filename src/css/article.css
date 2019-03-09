@@ -37,12 +37,6 @@
     margin-bottom: .5rem;
 }
 
-.article-content {
-    max-width: 768px;
-    margin: 0 auto;
-    padding: 1rem;
-}
-
 .article-meta {
     color: var(--black-40);
 }

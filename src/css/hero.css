@@ -1,0 +1,19 @@
+.hero {
+    background-color: var(--black-020);
+    margin: 0;
+    overflow: auto;
+}
+
+.hero-text {
+    padding: 1rem;
+}
+
+@media (min-width: 768px) {
+    .hero {
+        height: calc(100vh - 96px);
+    } 
+
+    .hero-text {
+        padding: 2rem;
+    }
+}

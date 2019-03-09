@@ -1,9 +1,17 @@
 {{ define "main" }}
+<div class="two-col">
+    <div class="hero">
+        <img src="{{.Params.image}}" alt="" class="img-responsive">
+        <div class="hero-text">
+            <h1>{{.Params.title}}</h1>
+            <p>{{ .Params.blurb.heading }}</p>
+            <p>Feel free to <a href="/contact">reach out</a> with any questions, concerns, and/or whatevs.</p>
+        </div>
+    </div>
+    <div>
+        {{ partial "blog" . }}
+    </div>
+</div>
 
-<img src="{{.Params.image}}" class="img-responsive" alt="">
-<h1>{{.Params.title}}</h1>
-{{ .Params.blurb.heading }}
-<hr>
-{{ partial "blog" . }}
 
 {{ end }}
