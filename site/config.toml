@@ -3,3 +3,6 @@ languageCode = "en-us"
 title = "Homepage"
 pygmentsUseClasses = true
 PygmentsCodeFence = true
+
+[permalinks]
+    post = "/post/:slug"
