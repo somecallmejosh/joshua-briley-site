@@ -15,6 +15,6 @@ I wondered if gratitude was responsible for these changes. Was I fooling myself?
 
 My career has seen considerable improvement over the last five to six years. But, I don't think I appreciated it. I have continually improved as a musician over the years. But, I haven't acknowledged my improvement. I have grown more patient as I have aged. But, I haven't given myself much credit. Instead, I have measured myself against what I think I should be. I have neglected what I am.
 
-As I sit here and write this, I realize "what I am" is pretty damned good. "Who I am" hasn't really changed. "What I have" hasn't changed either. Gratitude isn't about change. It's about acceptance. It's about taking a look at your life and realizing things are actually pretty great. It's about recognizing that things could be worse. It's about getting on with it and enjoying the life I have, and not longing for the one I don't. 
+As I sit here and write this, I realize "what I am" is pretty damned good. "Who I am" hasn't really changed. "What I have" hasn't changed either. Gratitude isn't about making change. It's about acceptance. It's about taking a look at your life and realizing things are actually pretty great. It's about getting on with it and enjoying the life I have, and not longing for the one I don't. 
 
 And that is my gratitude for today.
