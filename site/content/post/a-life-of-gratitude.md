@@ -6,8 +6,8 @@ category: Gratitude
 description: >-
   Gratitude doesn't change my environment, it allows me to be feel good about
   it.
-imageLink: v54iI9vMJPw
-imageAttribute: 'https://unsplash.com/@clemono2'
+imageLink: aDYBhg-4htc
+imageAttribute: 'https://unsplash.com/@alesme'
 ---
 I spent an entire year looking for reasons to be grateful. It was an active process of searching for happiness or contentment or something other than my default state of ho-hum. And it worked. Not only did my general health and well-being improve, but things around me also started to shape up. My career took a big step forward, and our finances improved.  Lots of things began to "happen" for me. Or, did they?
 
