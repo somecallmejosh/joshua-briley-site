@@ -9,7 +9,7 @@ description: >-
 imageLink: aDYBhg-4htc
 imageAttribute: 'https://unsplash.com/@alesme'
 ---
-I spent an entire year looking for reasons to be grateful. It was an active process of searching for happiness or contentment or something other than my default state of ho-hum. And it worked. Not only did my general health and well-being improve, but things around me also started to shape up. My career took a big step forward, and our finances improved.  Lots of things began to _happen_ for me... sort of.
+I spent an entire year looking for reasons to be grateful. I called it "One Year of Gratitude." Every day, I woke up and began brainstorming reasons to be grateful. I'd then share my gratitude over at Medium.com. It was an active process of searching for happiness or contentment or something other than my default state of ho-hum. And it worked. Not only did my general health and well-being improve, but things around me also started to shape up. My career took a big step forward, and our finances improved.  Lots of things began to _happen_ for me... sort of.
 
 I wondered if gratitude was responsible for these changes. Was I fooling myself? Had my situation actually improved, or was I merely more content with things as they were. Looking back on that year, I believe it was a little of both. Yes, I was tricking myself into thinking my situation was better than I thought it was. And it worked. Things were running the same course they had been for a while. But, I sure felt better about things. 
 
