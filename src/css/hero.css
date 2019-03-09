@@ -10,8 +10,13 @@
 
 .hero a:hover p,
 .hero a:hover small,
-.hero a:hover h2  {
+.hero a:hover h2,
+.hero a:hover h1   {
     color: var(--black-50);
+}
+
+.hero h1 {
+    margin-top: 0;
 }
 
 .hero-text {

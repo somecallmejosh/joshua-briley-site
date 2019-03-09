@@ -3,6 +3,7 @@
 }
 
 .card a {
+    align-items: center;
     background-color: var(--white);
     display: flex;
     text-decoration: none;
@@ -25,6 +26,11 @@
     flex: 2;
     flex-direction: column;
 }
+
+.card-content p {
+    display: none;
+}
+
 .card h2,
 .card h3 {
     margin: 0 0 .5rem;
@@ -39,7 +45,7 @@
 }
 
 @media (min-width: 768px) {
-    .card a {
-        align-items: center;
+    .card-content p {
+        display: block;
     }
 }

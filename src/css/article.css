@@ -16,7 +16,7 @@
 .image-attribution {
     position: absolute;
     bottom: -1.5rem;
-    left: 0;
+    left: 1rem;
     color: var(--black-60);
     font-size: .7rem;
 }
@@ -31,6 +31,7 @@
 
 .category {
     color: var(--black-70);
+    font-size: 70%;
     display: block;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -70,5 +71,9 @@
 
     .article-header p {
         margin-bottom: 0;
+    }
+
+    .image-attribution {
+        left: 0;
     }
 }
