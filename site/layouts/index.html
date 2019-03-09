@@ -1,7 +1,12 @@
 {{ define "main" }}
 <div class="two-col">
     <div class="hero">
+        {{ if .Params.image }}
         <img src="{{.Params.image}}" alt="" class="img-responsive">
+        {{ end }}
+        {{ if .Params.imageLink }}
+        <img src="https://source.unsplash.com/{{.Params.imageLink}}/800x400" class="img-responsive" />
+        {{ end }}
         <div class="hero-text">
             <h1>{{.Params.title}}</h1>
             <p>{{ .Params.subtitle }}</p>
