@@ -5,7 +5,9 @@ category: Web Dev
 description: >-
   So, I'm just playing around with the Netlify CMS to see what it can and cannot
   do. So far, it seems pretty sweet.
-image: /img/computer-user.jpeg
+image: ''
+imageLink: 1iVKwElWrPA
+imageAttribute: 'https://unsplash.com/@heapdump'
 ---
 First of all, I'm using Netlify CMS with the [Hugo static site generator](https://www.gohugo.io). I've chosen this over Nuxt.js and some of the other more fancy, _cutting edge_ SSG's because I'm familiar with it. It's easy. It's fast. Nuff said.
 
