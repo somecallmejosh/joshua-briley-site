@@ -1,11 +1,11 @@
 ---
 title: Checking Out Netlify CMS
+slug: checking-out-netlify-cms
 date: 2019-03-04T00:14:04.005Z
 category: Web Dev
 description: >-
   So, I'm just playing around with the Netlify CMS to see what it can and cannot
   do. So far, it seems pretty sweet.
-image: ''
 imageLink: 1iVKwElWrPA
 imageAttribute: 'https://unsplash.com/@heapdump'
 ---

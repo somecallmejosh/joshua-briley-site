@@ -1,11 +1,11 @@
 ---
 title: Using Unsplash Images in My Posts
+slug: using-unsplash-images-in-my-posts
 date: 2019-03-06T14:36:44.669Z
 category: Web Dev
 description: >-
   I love Unsplash.com. It's a collection of some of the finest photography on
   the web. And, it's free.
-image: ''
 imageLink: 2zmvYDBqnAA
 imageAttribute: 'https://unsplash.com/@breakyourboundaries4'
 ---
