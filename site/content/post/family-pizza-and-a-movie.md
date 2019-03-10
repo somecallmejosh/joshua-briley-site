@@ -7,7 +7,7 @@ description: >-
   Isn't it interesting how a small shift in a rote routine can trigger a spark
   of creativity and lay the groundwork for strengthened family bonds?
 imageLink: Ngy0B2YWalk
-imageAttribute: Ngy0B2YWalk
+imageAttribute: 'https://unsplash.com/@lum3n'
 ---
 Every weekend, our family does "pizza and a movie" night at home. This little ritual has been going on for many years and usually happens on Friday evenings. We try to make sure we do this every week. This weekend, we decided to kick it up a notch by making the pizza as opposed to getting it delivered. Homemade pizza was our daughter's idea. I think she may be on to something. It was fun, and we were all excited by the outcome.
 
