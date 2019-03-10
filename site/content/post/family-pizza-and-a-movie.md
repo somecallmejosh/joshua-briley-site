@@ -1,6 +1,6 @@
 ---
 title: 'Family, Pizza, and a Movie'
-slug: family-pizza-and-a-move
+slug: family-pizza-and-a-movie
 date: 2019-03-10T12:33:26.843Z
 category: Gratitude
 description: >-
