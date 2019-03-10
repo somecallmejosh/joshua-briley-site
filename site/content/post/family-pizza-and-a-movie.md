@@ -15,4 +15,6 @@ Pizza and movie night is one of our routines. We have other customs, but this on
 
 Let me get back to the thought of how my daughter is on to something. The idea of making our pizza appeals to me because it turns a passive engagement of hanging out into an active one. It is an opportunity for us to be creative together. It's a chance to win together. It also presents a possibility to fail together. And failure can be just as fun. The memory of making a horrible pizza is something we can laugh about later. Something as simple as homemade pizza can create long-lasting memories.
 
-I'm grateful for my family, and the time we have together. I'm thankful for my daughter's creative spirit. It's funny how a small shift in routine can open up new possibilities and strengthen our family bond. Will we make our pizza from now on? It's unlikely that we'll do so every week. Even if we never do it again, I'm willing to bet we'll all remember the night we did. And for the record, our first attempt was a big win. And that is my gratitude for today.
+I'm grateful for my family, and the time we have together. I'm thankful for my daughter's creative spirit. It's funny how a small shift in routine can open up new possibilities and strengthen our family bond. Will we make our pizza from now on? It's unlikely that we'll do so every week. Even if we never do it again, I'm willing to bet we'll all remember the night we did. And for the record, our first attempt was a big win. 
+
+And that is my gratitude for today.
