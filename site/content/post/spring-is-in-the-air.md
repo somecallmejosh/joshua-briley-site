@@ -10,7 +10,7 @@ description: >-
 imageLink: Olekfx4q_zY
 imageAttribute: 'https://unsplash.com/photos/Olekfx4q_zY'
 ---
-I look around the yard and see little dirty snow banks holding on for dear life. The distance between them continues to grow, giving way to the ground below. As I witness this increasing divide, all I can think is, "fuck yes, it's about fucking time!" If you're going to stick around and read this blog, you should know that I say stuff like that to myself from time to time. 
+I'm looking around the yard and see little dirty snow banks holding on for dear life. The distance between them continues to grow, giving way to the ground below. Mud. I meant _mud_ below. As I witness this increasing divide, all I can think is, "fuck yes, it's about fucking time!" If you're going to stick around and read this blog, you should know that I say stuff like that to myself from time to time. 
 
 The forecast for the rest of the week looks pretty fantastic. We're expecting temps in the forties and fifties for a few days in a row. Forty... isn't that a funny sounding word? Sorry. I digress. I guess I'm just excited to see sunshine and warmer temps in the forecast. 
 
