@@ -24,10 +24,6 @@
 }
 
 @media (min-width: 768px) {
-    .hero {
-        height: calc(100vh - 96px);
-    } 
-
     .hero-text {
         padding: 1rem 2rem;
     }
