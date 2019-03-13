@@ -21,7 +21,7 @@ regexExpression.test(valueToTest);
 
 
 
-## Test EXACT string
+## Test _Exact_ String
 
 {{< highlight js >}}
 
@@ -39,7 +39,7 @@ console.log(THE.test(myString)); // false
 
 
 
-## Test MULTIPLE strings
+## Test _Multiple_ strings
 
 {{< highlight js >}}
 
@@ -55,7 +55,7 @@ let multiStringFail = /eated|some|oranges/;
 
 
 
-## Test & IGNORE CAPITALIZATION
+## Test & _Ignore Capitalization_
 
 {{< highlight js >}}
 
@@ -75,7 +75,7 @@ valueToTest.match(regexExpression);
 {{< /highlight >}}
 
 
-## Extract EXACT matches
+## Extract _Exact Matches_
 
 {{< highlight js >}}
 
@@ -87,7 +87,7 @@ let stringToExtract = /extract/;
 {{< /highlight >}}
 
 
-## Find MULTIPLE matches
+## Find _Multiple Matches_
 
 {{< highlight js >}}
 
@@ -101,7 +101,7 @@ let repeatMatch = /ever/g;
 
 
 
-## WILDCARD MULTIPLE match
+## _Wildcard Multiple_ Match
 
 {{< highlight js >}}
 
@@ -113,7 +113,7 @@ let wildcardMatch = /.un/g;
 {{< /highlight >}}
 
 
-## SINGLE CHARACTER, MULTIPLE POSSIBILITIES
+## _Single Character, Multiple Possibilities_ Match
 
 {{< highlight js >}}
 
@@ -128,7 +128,7 @@ let posMatch = /b\[aeiou]g/g;
 
 
 
-## MATCH ALL LETTERS IN A string
+## Match _All Letters in a String_
 
 {{< highlight js >}}
 
@@ -140,7 +140,7 @@ let alphabetRegex = /\[a-z]/ig;
 {{< /highlight >}}
 
 
-## MATCH CHARACTERS NOT SPECIFIED
+## Match _Characters not Specified_
 
 {{< highlight js >}}
 
