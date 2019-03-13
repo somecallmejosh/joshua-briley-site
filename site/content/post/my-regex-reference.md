@@ -9,6 +9,8 @@ description: >-
 imageLink: 95YRwf6CNw8
 imageAttribute: 'https://unsplash.com/photos/95YRwf6CNw8'
 ---
+_I will iterate on this at some point in the future. For now, it's just a quick reference for me to find certain regex patterns that I use at work._
+
 {{< highlight js >}}
 
 .test()
