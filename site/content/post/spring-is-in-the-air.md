@@ -4,11 +4,11 @@ slug: something-is-in-the-air
 date: 2019-03-13T18:23:09.700Z
 category: Gratitude
 description: >-
-  Can you smell that? I'm pretty sure it's mud. I don't normally enjoy that
-  aroma. But, today I do. Today, it reminds me that something good is near.
-  Spring!
-imageLink: QMlYJV5p11g
-imageAttribute: 'https://unsplash.com/photos/QMlYJV5p11g'
+  Take a whiff. Go ahead... Can you smell that? I'm pretty sure it's mud. I
+  don't normally enjoy that aroma. But, today I do. Today, it reminds me that
+  something good is near. Spring!
+imageLink: Olekfx4q_zY
+imageAttribute: 'https://unsplash.com/photos/Olekfx4q_zY'
 ---
 I look around the yard and see little dirty snow banks holding on for dear life. The distance between them continues to grow, giving way to the ground below. As I witness this increasing divide, all I can think is, "fuck yes, it's about fucking time!" If you're going to stick around and read this blog, you should know that I say stuff like that to myself from time to time. 
 
