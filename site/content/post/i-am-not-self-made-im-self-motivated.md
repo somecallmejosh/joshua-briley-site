@@ -8,8 +8,8 @@ description: >-
   my yearly evaluation, so the thought was fitting. I also remembered a speech
   by Arnold Schwarzenegger where he adamantly proclaimed that he was not a
   self-made man. 
-imageLink: 'https://unsplash.com/photos/GO8FuSdZBks'
-imageAttribute: GO8FuSdZBks
+imageLink: GO8FuSdZBks
+imageAttribute: 'https://unsplash.com/photos/GO8FuSdZBks'
 ---
 After thinking about Arnold's speech, I proceeded to think about the many people who aided in my success. I was overwhelmed by the thought. More people came to mind than I ever realized. I, like Arnold, am not a self-made man—not even almost.
 
