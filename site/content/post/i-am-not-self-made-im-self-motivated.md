@@ -23,6 +23,6 @@ Sean Daniels and Scott Phillips. David Daniel and George Chaix. Matt Rhodes and 
 
 My family is a massive contributor to my success. My wife and kids let me pursue my dreams. I've never felt any competition for my attention from them. They understand the joy I get from reading books, practicing exercises, and sitting in front of a computer screen tinkering for hours on end. They don't fuss or feel neglected when I pay for another class or hire a mentor for help. They support my decision to change jobs or seek out better opportunities. They let me make mistakes and learn from them. They understand that my career is important to me. They also understand how fortunate I am to enjoy the kind of work I do. Because of them and their support, I am not a self-made man.
 
-I am grateful for the people in my life. I am thankful to have a career that I genuinely love. It is a blessing to work with people who make my job fun, exciting and challenging. I have happy for the balance they bring. 
+I am grateful for the people in my life. I am thankful to have a career that I genuinely love. It is a blessing to work with people who make my job fun, exciting and challenging. I am happy for the balance they bring. 
 
 And that is my gratitude for today.
