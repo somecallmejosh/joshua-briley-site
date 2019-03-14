@@ -13,7 +13,7 @@ imageAttribute: 'https://unsplash.com/photos/GO8FuSdZBks'
 ---
 After thinking about Arnold's speech, I proceeded to think about the many people who aided in my success. I was overwhelmed by the thought. More people came to mind than I ever realized. I, like Arnold, am not a self-made man—not even almost.
 
-A lot of people claim to be self-made. I hear phrases like "I paid my way through college." Or "I didn't rely on my parents to get me where I am in life." Or, something similar. I think we've all heard these claims. And some folks may have lifted themselves by the bootstraps without assistance. I am not one of those people.
+A lot of people claim to be self-made. I hear phrases like "I paid my way through college." Or "I didn't rely on my parents to get me where I am in life." Or, something similar. I think we've all heard these claims. Some folks may have actually lifted themselves by the bootstraps without assistance. I am not one of those people.
 
 I can have all the motivation I want. I can read all the books in the world. I can do all the exercises, take all the tests. I can prepare myself for any situation. When it comes to my career, I believe I've done an excellent job in this regard. I am a motivated self-starter and self-educator. I am proud of these qualities. But, they can only take me so far. These qualities do not make me a self-made man.
 
