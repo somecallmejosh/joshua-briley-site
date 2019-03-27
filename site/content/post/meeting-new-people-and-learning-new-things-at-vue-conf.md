@@ -2,7 +2,7 @@
 title: Meeting New People and Learning New Things at Vue Conf
 slug: vue-conf-tampa-2019
 date: 2019-03-27T11:32:51.528Z
-category: Web Dev
+category: Gratitude
 description: >-
   I'm writing bright and early from the hotel lobby in Tampa, FL. I'm here for a
   3-day tech conference—Vue Conference, to be more specific. I'm here getting
