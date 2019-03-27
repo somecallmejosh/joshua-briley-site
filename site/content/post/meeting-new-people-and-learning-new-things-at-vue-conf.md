@@ -8,8 +8,8 @@ description: >-
   3-day tech conference—Vue Conference, to be more specific. I'm here getting
   the skinny on my favorite Javascript framework and meeting interesting people.
   And I find myself laughing, a lot. That's a good thing.
-imageLink: 'https://unsplash.com/photos/ourQHRTE2IM'
-imageAttribute: ourQHRTE2IM
+imageLink: ourQHRTE2IM
+imageAttribute: 'https://unsplash.com/photos/ourQHRTE2IM'
 ---
 Why all the laughter? No reason in particular. We're just a bunch of people from different places talking shop. We're sharing our stories from the trenches. We're also having conversations about our significant others, our kids, our hobbies, Russian collusion. You know, typical chit-chat stuff. 
 
