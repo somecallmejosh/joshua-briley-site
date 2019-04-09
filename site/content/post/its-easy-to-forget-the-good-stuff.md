@@ -17,9 +17,7 @@ I suspect some of these "too busy to be happy" folks weren't born and raised her
 
 The introduction above brings me to one of my recurring thoughts. At some point, the things that are awesome in our life just become the norm. It seems we forget about them. Remember the feeling of that new job? Does it still feel the same? Remember that first date? How does the most recent date with the same person feel by comparison? 
 
-At some point, a medical school student became a Doctor. At some point, a college football player became a professional athlete in the NFL. At some point, a budding mathematician became an astronaut. At some point, a student government participant became a US Senator. These are all dream-come-true careers. And, like the Dunkin crowd I'm witnessing this morning, their dream careers become matter-of-fact.
-
-Ever heard a doctor complain about his or her job? Ever hear NFL athletes complaining? Politicians? At some point in our careers, our lives, or our relationships a shift occurs. We forget how awesome things are. 
+Ever heard a doctor complain about his or her job? Ever hear NFL athletes bemoan their contracts? Politicians denouncing the political process? Of course we have. At some point in our careers, our lives, or our relationships a shift occurs. We forget how awesome things are. At some point, an excited medical school student became a Doctor. At some point, a college football player became a professional athlete in the NFL. At some point, a budding mathematician became an astronaut. At some point, a student government participant became a US Senator. These are all _dream-come-true_ careers. And, like the Dunkin crowd I'm witnessing this morning, their dream careers became _ho-hum_.
 
 Think about these things for a minute. Reflect on them. 
 
