@@ -6,8 +6,8 @@ category: Insights
 description: >-
   At the risk of exposing myself to colleagues, friends, family, and others who
   are close to me, I share this personal struggle. I suspect I'm not alone.
-imageLink: 'https://unsplash.com/photos/VBe9zj-JHBs'
-imageAttribute: VBe9zj-JHBs
+imageLink: VBe9zj-JHBs
+imageAttribute: 'https://unsplash.com/photos/VBe9zj-JHBs'
 ---
 There's already a hole. It's evident. I've tried filling it time and time again with one thing or another. For a while, it seems like I've got the hole nearly filled in. Just a little more effort and I can finally relax! Inevitably, as I get closer to filling it, each new scoop of "one thing or another" seems to blend in with the other. The hole remains unfilled. 
 
