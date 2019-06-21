@@ -1,6 +1,6 @@
 ---
-title: The Addictive Hole of Eternal Peril
-slug: the-addictive-hole-of-eternal-peril
+title: Some Holes Just Don't Get Filled
+slug: some-holes-dont-get-filled
 date: 2019-06-21T11:04:28.237Z
 category: Insights
 description: >-
