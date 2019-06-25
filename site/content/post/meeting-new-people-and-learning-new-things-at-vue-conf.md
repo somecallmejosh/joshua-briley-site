@@ -5,8 +5,8 @@ date: 2019-03-27T11:32:51.528Z
 category: Gratitude
 description: >-
   I'm writing bright and early from the hotel lobby in Tampa, FL. I'm here for a
-  3-day tech conference—Vue Conference, to be more specific. We're getting the
-  skinny on my favorite Javascript framework and meeting interesting people.
+  3-day Vue.js conference. I'm getting the skinny on my favorite Javascript
+  framework and meeting interesting people.
 imageLink: ourQHRTE2IM
 imageAttribute: 'https://unsplash.com/photos/ourQHRTE2IM'
 ---
