@@ -6,8 +6,7 @@ category: Gratitude
 description: >-
   I'm sitting here in the Dunkin Donut on Varick Street in NYC waiting for
   another conference to start. The feeling of being in this big city is always
-  exciting for me. For the other folks walking through the Dunkin doors, it's as
-  normal as can be.
+  exciting for me.
 imageLink: 31-pOduwZGE
 imageAttribute: 'https://unsplash.com/photos/31-pOduwZGE'
 ---
